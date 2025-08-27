@@ -1,3 +1,3 @@
-const message = 'hola muno!!'
+const message = 'hola mundo!!'
 
 console.log(message)
